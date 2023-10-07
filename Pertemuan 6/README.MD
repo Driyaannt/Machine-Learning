@@ -5,13 +5,16 @@ Kelas   : TI - 3H
 No      : 17 
 
 
-[Tugas 1](https://github.com/Driyaannt/2141720224-mobile-2023/blob/main/week-5/MyFirstFlutterapp/README.MD)
+[Tugas 1](https://github.com/Driyaannt/Machine-Learning/blob/main/Pertemuan%206/Tugas%20Praktikum/Tugas-1.ipynb)
+
 Terdapat dataset mushroom. Berdasarkan dataset yang tersebut, bandingkan peforma antara algoritma Decision Tree dan RandomForest. Gunakan tunning hyperparameter untuk mendapatkan parameter dan akurasi yang terbaik.
 
-[Tugas 2](https://github.com/Driyaannt/2141720224-mobile-2023/blob/main/week-5/MyFirstFlutterapp/README.MD)
+[Tugas 2](https://github.com/Driyaannt/Machine-Learning/blob/main/Pertemuan%206/Tugas%20Praktikum/Tugas-2.ipynb)
+
 Terdapat dataset mushroom. Berdasarkan dataset tersebut, bandingkan peforma antara algoritma Decision Tree dan AdaBoost. Gunakan tunning hyperparameter untuk mendapatkan parameter dan akurasi yang terbaik.
 
-[Tugas 3](https://github.com/Driyaannt/2141720224-mobile-2023/blob/main/week-5/MyFirstFlutterapp/README.MD)
+[Tugas 3](https://github.com/Driyaannt/Machine-Learning/blob/main/Pertemuan%206/Tugas%20Praktikum/Tugas-3.ipynb)
+
 Dengan menggunakan dataset diabetes, buatlah ensemble voting dengan algoritma
 - Logistic Regression
 - SVM kernel polynomial
