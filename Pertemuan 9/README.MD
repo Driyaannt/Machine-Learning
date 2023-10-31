@@ -6,26 +6,29 @@ No      : 17
 
 ### Praktikum
 
-- [Praktikum-1 = KMeans](https://github.com/Driyaannt/Machine-Learning/blob/main/Pertemuan%207/Praktikum/praktikum-01.ipynb)
+- [Praktikum-1 = Klasifikasi Iris dengan Perceptron](https://github.com/Driyaannt/Machine-Learning/blob/main/Pertemuan%209/Praktikum/praktikum-01.ipynb)
 
-- [Praktikum-2 = Clustering](https://github.com/Driyaannt/Machine-Learning/blob/main/Pertemuan%207/Praktikum/praktikum-02.ipynb)
+- [Praktikum-2 = Klasifikasi Berita dengan Perceptron](https://github.com/Driyaannt/Machine-Learning/blob/main/Pertemuan%209/Praktikum/praktikum-02.ipynb)
 
-- [Praktikum-3 = Self-Optimizing Map (SOM)](https://github.com/Driyaannt/Machine-Learning/blob/main/Pertemuan%207/Praktikum/praktikum-03.ipynb)
+- [Praktikum-3 = Nilai Logika XOR dengan MLP](https://github.com/Driyaannt/Machine-Learning/blob/main/Pertemuan%209/Praktikum/praktikum-03.ipynb)
 
-- [Praktikum-4 = SOM pada Citra](https://github.com/Driyaannt/Machine-Learning/blob/main/Pertemuan%207/Praktikum/praktikum-04.ipynb)
+- [Praktikum-4 = Klasifikasi dengan ANN](https://github.com/Driyaannt/Machine-Learning/blob/main/Pertemuan%209/Praktikum/praktikum-04.ipynb)
 
 
 ### Tugas
 
-Buatlah sebuah model K-Means dengan ketentuan,
-1. Gunakan data 'Mall_Customers.csv'
+- Lakukan klasifikasi pada data MNIST dengan menggunakan model ANN
+- Anda diperbolehkan melakukan eksplorasi terhadap,
+    - Metode pra pengolahan
+    - Pemilihan fitur
+    - Arsitektur ANN
+    - Fungsi Aktiviasi
+- ANN diimplementasikan dengan menggunakan tensorflow.
+- DIKERJAKAN SECARA BERKELOMPOK
+- JELASKAN HASIL YANG ANDA DAPATKAN,
+    - AKURASI
+    - CONFUSION MATRIX
+    - KONFIGURASI MODEL --> MULAI DARI PRA PENGOLAHAN SAMPAI ARSITEKTUR ANN
 
-2. Tentukan fitur apa yang tepat untuk melakukan clustering (minimal 2)
+- [Tugas =  week-9](https://github.com/Driyaannt/Machine-Learning/blob/main/Pertemuan%209/tugas/Week_9_Tugas_ANN.ipynb)
 
-3. Buatlah model K-Means dengan mempertimbangkan jumlah  yang terbaik.
-
-- [Tugas](https://github.com/Driyaannt/Machine-Learning/blob/main/Pertemuan%207/tugas/Tugas.ipynb)
-
-4. Buatlah  implementasi model SOM untuk segmentasi citra lain
-
-- [Tugas - SOM](https://github.com/Driyaannt/Machine-Learning/blob/main/Pertemuan%207/tugas/tugas-SOM.ipynb)
